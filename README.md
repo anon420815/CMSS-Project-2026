@@ -24,7 +24,7 @@ The dataset is used under its original license and is not included in this repos
 
 ## Notebook
 
-[CMSS_Project_Code.ipynb](CMSS_Project_Code.ipynb)
+[Notebook (ipynb)](CMSS_Project_Code.ipynb)
 
 ## Full Report
 
