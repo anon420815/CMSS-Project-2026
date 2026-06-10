@@ -22,10 +22,10 @@ The dataset used in this project comes from: https://github.com/sinking8/x-24-us
 It contains X (Twitter) interaction data related to the 2024 U.S. Presidential Election.
 The dataset is used under its original license and is not included in this repository. Please refer to the original source for access and licensing details.
 
-## Main Notebook
+## Notebook
 
 [CMSS_Project_Code.ipynb](CMSS_Project_Code.ipynb)
 
-## Full report
+## Full Report
 
 [Download full report (PDF)](report.pdf)
